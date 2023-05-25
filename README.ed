@@ -1,4 +1,4 @@
-- Git notes
+- Git notes for local work
 
 - 'git init' : Create local directy 
 - 'git clone <URL>' : Clone respository from given <URL>
@@ -11,7 +11,7 @@
 - 'git log ' : shows the log (history) of our commits
     - 'git log --oneline' : shows the shorter online commit
 
-# remotes
+# working with remotes
 - 'git remote add <NAME> <URL>' : adds the <URL> as a remote with the name <NAME>
     - <NAME> is by convention called 'origin'
 - 'git remote rm <NAME>' : removes the remote called <NAME>
