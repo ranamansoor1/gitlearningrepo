@@ -12,7 +12,7 @@
 - 'git log ' : shows the log (history) of our commits
     - 'git log --oneline' : shows the shorter online commit
 
-<<<<<<< HEAD
+
 # Working with remotes
 - 'git remote add <NAME> <URL>' : adds the <URL> as a remote with the name <NAME>
     - <NAME> is by convention called 'origin'
