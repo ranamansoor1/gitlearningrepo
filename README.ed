@@ -1,3 +1,7 @@
 
 - 'git init' : Create local directy 
 - 'git clone <URL>' : Clone respository from given <URL>
+- 'git status' : tells us what we need to know about our respository
+
+- 'git add <FILE>' : adds <FILE> to the staging area
+- 'git commit' : open a text editor to write commit message
