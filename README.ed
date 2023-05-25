@@ -10,3 +10,11 @@
 - 'git log ' : shows the log (history) of our commits
     - 'git log --oneline' : shows the shorter online commit
 
+- 'git remote add <NAME> <URL>' : adds the <URL> as a remote with the name <NAME>
+    - <NAME> is by convention called 'origin'
+- 'git remote rm <NAME>' : removes the remote called <NAME>
+- 'git remote -v' : look at all the remotes you have
+- 'git push <where> <what>' : push the <what> branch to <where>
+   - 'git push origin main'
+
+ 
