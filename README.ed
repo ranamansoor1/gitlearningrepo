@@ -21,3 +21,10 @@
 - 'git push <where> <what>' : push the <what> branch to <where>
    - 'git push origin main'
 - 'git pull <WHERE> <WHAT>' : pulls the <WHAT> branch in <WHERE> to local computer   
+
+## brnaches 
+ - 'git branch <NAME>' : create brnach <NAME> where you are (HEAD)
+ - 'git switch <NAME>' : move to the branch <NAME>
+      - 'git checkout <NAME>': also move to the branch <NAME>
+ - 'git switch -c <NAME>': create and move to the brnch <NAME> in 1 command
+      - 'git checkout -b <NAME>' : also create and moce to branch <NAME> in 1 command.
