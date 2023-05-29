@@ -22,7 +22,7 @@
    - 'git push origin main'
 - 'git pull <WHERE> <WHAT>' : pulls the <WHAT> branch in <WHERE> to local computer   
 
-## brnaches 
+## Brnaches 
  - 'git branch <NAME>' : create brnach <NAME> where you are (HEAD)
  - 'git switch <NAME>' : move to the branch <NAME>
       - 'git checkout <NAME>': also move to the branch <NAME>
