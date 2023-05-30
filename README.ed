@@ -37,8 +37,7 @@
  - 'git rebase' : command to change the history of a commit
        commit from 'git merge' can be automatically combined.
     - 'git rebase <BRANCH>' : incorporate chnages from <BRANCH> into current branch
-      
-- main commit 1
-- main commit 2
-- brnach commit 1
-- brnach commit 2
+    - 'git status' : is your friend
+    - 'git add <FILE>': to mark conflict resolution
+    - 'git rebase --continue' : move to next commit in rebase
+    - 'git rebase --abort' : undo git rebase step
