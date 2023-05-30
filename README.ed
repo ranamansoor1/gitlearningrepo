@@ -34,3 +34,4 @@
     - 'git rebase <BRANCH>' : incorporate chnages from <BRANCH> into current branch
       
 - main commit 1
+- main commit 2
