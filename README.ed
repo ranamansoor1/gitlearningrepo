@@ -23,7 +23,8 @@
 - 'git pull <WHERE> <WHAT>' : pulls the <WHAT> branch in <WHERE> to local computer   
 
 
-## BRANCHES main commit 3
+
+## Branches 
  
  - 'git branch <NAME>' : create brnach <NAME> where you are (HEAD)
  - 'git switch <NAME>' : move to the branch <NAME>
@@ -41,3 +42,6 @@
 
 commit main 1
 commit main 2
+branch commit 1
+brnach commit 2
+
