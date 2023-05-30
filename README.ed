@@ -22,8 +22,12 @@
    - 'git push origin main'
 - 'git pull <WHERE> <WHAT>' : pulls the <WHAT> branch in <WHERE> to local computer   
 
-## BRANCHES - main commit 3
+
+## Branches
  
+=======## BRANCHES - branch commit 3
+
+>>>>>>> 12ba0f2 (branch commit 3)
  - 'git branch <NAME>' : create brnach <NAME> where you are (HEAD)
  - 'git switch <NAME>' : move to the branch <NAME>
       - 'git checkout <NAME>': also move to the branch <NAME>
