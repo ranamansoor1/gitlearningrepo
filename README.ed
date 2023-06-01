@@ -43,3 +43,7 @@
      - you can make multiple commit changes here, e.g, 'squash '/'s' 
      - 'git rebase -i <HASH>^' : use ^ to include that commit in interactive rebase 
 
+- A 'merger' on the remmote is called a "pull request " or "merge request"
+     - 'git push <WHERE> <WHAT>' 
+
+ 
