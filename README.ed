@@ -43,3 +43,6 @@
      - you can make multiple commit changes here, e.g, 'squash '/'s' 
      - 'git rebase -i <HASH>^' : use ^ to include that commit in interactive rebase 
  
+- A 'merge' on the remote is called a "pull request/ merge request"
+     - 'git push <WHERE> <WHAT>'
+     -  to update a PR, we make the changes to the branch locally and re- 'push'
